@@ -1,7 +1,10 @@
-Hi 🙂, I’m Grigori, a PhD student 🎓 at Technische Universität Darmstadt 🏛️, Germany.
-I’m a mechanical engineer. 🛰️
-I am a fluid dynamicist studying fluid mechanics :str experimentally 🥼 and theoretically 🖋️. 
-I’m a data scienctist. 👨‍💻
+Hi 🙂, I’m Grigori. 
+I’m a PhD student 🎓 at Technische Universität Darmstadt 🏛️, Germany.  
+I’m a mechanical engineer. 🛰️  
+I am a fluid dynamicist. ✈️  
+I’m a data scienctist. 👨‍💻  
+I’m studying fluid mechanics :str experimentally 🥼 and theoretically 🖋️.  
+
 
 
 <!---
